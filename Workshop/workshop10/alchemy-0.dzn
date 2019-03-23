@@ -1,0 +1,9 @@
+% optimal 7
+n_potions = 10;
+alchemy = [6, 3, 5, 3, 7, 3, 1, 2, 4, 3];
+n_days = 6;
+min_potions = 1;
+max_potions = 4;
+min_alchemists = 2;
+max_alchemists = 12;
+prereqs = [|3,1 |4,1 |5,1 |6,1 |7,1 |6,2 |8,2 |];

@@ -1,0 +1,25 @@
+{
+    "builtinSolverConfigs": [
+    ],
+    "openFiles": [
+        "data/alchemy-0.dzn",
+        "alchemy.mzn"
+    ],
+    "openTab": 2,
+    "projectFiles": [
+        "alchemy.mzc",
+        "alchemy.mzn",
+        "data/alchemy-0.dzn",
+        "data/alchemy-1.dzn",
+        "data/alchemy-2.dzn",
+        "data/alchemy-3.dzn",
+        "data/alchemy-4.dzn",
+        "data/alchemy-5.dzn",
+        "data/alchemy-6.dzn"
+    ],
+    "projectSolverConfigs": [
+    ],
+    "selectedBuiltinConfigId": "org.gecode.gecode",
+    "selectedBuiltinConfigVersion": "6.0.1",
+    "version": 105
+}
