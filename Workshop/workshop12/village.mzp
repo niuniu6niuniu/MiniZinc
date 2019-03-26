@@ -1,0 +1,24 @@
+{
+    "builtinSolverConfigs": [
+    ],
+    "openFiles": [
+        "village.mzn"
+    ],
+    "openTab": 1,
+    "projectFiles": [
+        "data/village0.dzn",
+        "data/village1.dzn",
+        "data/village2.dzn",
+        "data/village3.dzn",
+        "data/village4.dzn",
+        "data/village5.dzn",
+        "data/village6.dzn",
+        "village.mzc",
+        "village.mzn"
+    ],
+    "projectSolverConfigs": [
+    ],
+    "selectedBuiltinConfigId": "org.gecode.gecode",
+    "selectedBuiltinConfigVersion": "6.0.1",
+    "version": 105
+}
